@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "558e",
+      "completed": "true",
+      "title": "Masai school"
+    },
+    {
+      "id": "bbe4",
+      "title": "A",
+      "completed": "true"
+    },
+    {
+      "id": "936a",
+      "title": "a",
+      "completed": "true"
+    },
+    {
+      "id": "096d",
+      "title": "a",
+      "completed": false
+    },
+    {
+      "id": "8ec9",
+      "title": "a",
+      "completed": false
+    },
+    {
+      "id": "57c0",
+      "title": "www",
+      "completed": "true"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+- npm install -D @types/redux @types/react-redux @types/redux-thunk
